@@ -1,0 +1,134 @@
+{
+  "roots": [
+    "deepar_kit"
+  ],
+  "packages": [
+    {
+      "name": "deepar_kit",
+      "version": "0.1.0",
+      "dependencies": [
+        "agora_rtc_engine",
+        "flutter",
+        "flutter_deepar"
+      ],
+      "devDependencies": []
+    },
+    {
+      "name": "agora_rtc_engine",
+      "version": "6.6.3",
+      "dependencies": [
+        "async",
+        "ffi",
+        "flutter",
+        "flutter_web_plugins",
+        "iris_method_channel",
+        "js",
+        "json_annotation",
+        "meta",
+        "web"
+      ]
+    },
+    {
+      "name": "flutter",
+      "version": "0.0.0",
+      "dependencies": [
+        "characters",
+        "collection",
+        "material_color_utilities",
+        "meta",
+        "sky_engine",
+        "vector_math"
+      ]
+    },
+    {
+      "name": "web",
+      "version": "1.1.1",
+      "dependencies": []
+    },
+    {
+      "name": "js",
+      "version": "0.6.7",
+      "dependencies": [
+        "meta"
+      ]
+    },
+    {
+      "name": "iris_method_channel",
+      "version": "2.2.5",
+      "dependencies": [
+        "async",
+        "ffi",
+        "flutter",
+        "flutter_web_plugins",
+        "js"
+      ]
+    },
+    {
+      "name": "meta",
+      "version": "1.18.0",
+      "dependencies": []
+    },
+    {
+      "name": "async",
+      "version": "2.13.1",
+      "dependencies": [
+        "collection",
+        "meta"
+      ]
+    },
+    {
+      "name": "ffi",
+      "version": "1.2.1",
+      "dependencies": []
+    },
+    {
+      "name": "json_annotation",
+      "version": "4.12.0",
+      "dependencies": [
+        "meta"
+      ]
+    },
+    {
+      "name": "flutter_web_plugins",
+      "version": "0.0.0",
+      "dependencies": [
+        "flutter"
+      ]
+    },
+    {
+      "name": "sky_engine",
+      "version": "0.0.0",
+      "dependencies": []
+    },
+    {
+      "name": "vector_math",
+      "version": "2.2.0",
+      "dependencies": []
+    },
+    {
+      "name": "material_color_utilities",
+      "version": "0.13.0",
+      "dependencies": [
+        "collection"
+      ]
+    },
+    {
+      "name": "collection",
+      "version": "1.19.1",
+      "dependencies": []
+    },
+    {
+      "name": "characters",
+      "version": "1.4.1",
+      "dependencies": []
+    },
+    {
+      "name": "flutter_deepar",
+      "version": "0.1.4",
+      "dependencies": [
+        "flutter"
+      ]
+    }
+  ],
+  "configVersion": 1
+}

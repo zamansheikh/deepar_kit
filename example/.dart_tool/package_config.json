@@ -1,0 +1,118 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "agora_rtc_engine",
+      "rootUri": "file:///C:/Users/zaman/AppData/Local/Pub/Cache/hosted/pub.dev/agora_rtc_engine-6.6.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///C:/Users/zaman/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.13.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///C:/Users/zaman/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/zaman/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "deepar_kit",
+      "rootUri": "../../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///C:/Users/zaman/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///C:/Users/zaman/develop/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "flutter_deepar",
+      "rootUri": "file:///C:/Users/zaman/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_deepar-0.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///C:/Users/zaman/develop/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "iris_method_channel",
+      "rootUri": "file:///C:/Users/zaman/AppData/Local/Pub/Cache/hosted/pub.dev/iris_method_channel-2.2.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///C:/Users/zaman/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///C:/Users/zaman/AppData/Local/Pub/Cache/hosted/pub.dev/json_annotation-4.12.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///C:/Users/zaman/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.13.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/zaman/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.18.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///C:/Users/zaman/develop/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "3.10"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///C:/Users/zaman/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "web",
+      "rootUri": "file:///C:/Users/zaman/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "deepar_kit_example",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.12.2",
+  "flutterRoot": "file:///C:/Users/zaman/develop/flutter",
+  "flutterVersion": "3.44.4",
+  "pubCache": "file:///C:/Users/zaman/AppData/Local/Pub/Cache"
+}
