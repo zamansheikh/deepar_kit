@@ -1,0 +1,16 @@
+name: deepar_kit_example
+description: Demonstrates the deepar_kit plugin.
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  deepar_kit:
+    path: ../
+  agora_rtc_engine: ^6.0.0
+
+flutter:
+  uses-material-design: true

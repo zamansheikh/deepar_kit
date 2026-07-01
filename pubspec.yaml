@@ -1,0 +1,17 @@
+name: deepar_kit
+description: >
+  Bridge plugin that pipes DeepAR AR-processed frames directly into Agora RTC
+  as an external video source. One-liner integration for AR filters in live streams.
+version: 0.1.0
+homepage: https://github.com/zamansheikh/deepar_kit
+repository: https://github.com/zamansheikh/deepar_kit
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_deepar: ^0.1.0
+  agora_rtc_engine: ^6.0.0
